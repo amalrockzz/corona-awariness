@@ -1,0 +1,74 @@
+
+.top-container{
+  background-color:#222831;
+  padding: 0 20px 10px 20px;
+  margin-right: 300px;
+
+}
+h1{
+  color: white;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+.middle-container{
+background-color: #95389e;
+padding: 0 20px 10px 20px;
+margin-right: 300px;
+}
+.para{
+  background-color: white;
+  font-size: 25px;
+  line-height: 1.5;
+  font-family: Verdana,sans-serif;
+
+}
+.corona-img{
+  margin-top: 20px;
+  margin-right: 20px;
+  float: right;
+}
+.background{
+  background-color:#def4f0;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+.symptoms{
+  background-color: #ff5200;
+  padding: 0 20px 10px 20px;
+  margin-right: 300px;
+}
+.bottom-container{
+   margin-left: 650px;
+}
+
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #03b6f7 5%, #7416e0 100%);
+	background-color:#03b6f7;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+ margin-left: 650px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #7416e0 5%, #03b6f7 100%);
+	background-color:#7416e0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-me{
+  
+ padding: 50px 0;
+  background-color: #5fdde5;
+
+
+}
